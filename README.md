@@ -33,7 +33,12 @@ The current implementation focuses on building a reproducible fine-tuning pipeli
 | Offline imitation learning | Yes | Training uses existing demonstrations, not live environment interaction |
 | Expert-only fine-tuning | Yes | Only the action expert / action-related components are trained |
 
+The repository contains scripts, commands, plots, and documentation for reproducing π₀.₅ expert-only supervised fine-tuning on LIBERO. Large model checkpoints and datasets are excluded from GitHub and downloaded/generated locally using the README instructions.
+
 The key training flag is:
 
 ```bash
 --policy.train_expert_only=true
+
+
+
