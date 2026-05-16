@@ -1,0 +1,16 @@
+lerobot-train ^
+  --dataset.repo_id=HuggingFaceVLA/libero ^
+  --output_dir=.\outputs\pi05_libero_5k ^
+  --job_name=pi05_libero_5k ^
+  --policy.path=E:\Robotics\Lerobot\models\pi05_libero_base ^
+  --policy.dtype=bfloat16 ^
+  --policy.device=cuda ^
+  --policy.gradient_checkpointing=true ^
+  --policy.train_expert_only=true ^
+  --policy.compile_model=false ^
+  --policy.push_to_hub=false ^
+  --steps=5000 ^
+  --batch_size=1 ^
+  --log_freq=50 ^
+  --save_freq=1000 ^
+  --wandb.enable=false
