@@ -1,6 +1,5 @@
 # Fine-Tuning π₀.₅ on LIBERO using LeRobot
 
-**Author:** Shaifalee Saxena  
 **Project:** Digital Image Processing / Robotics VLA Fine-Tuning  
 **Model:** π₀.₅ Vision-Language-Action model  
 **Dataset:** LIBERO via `HuggingFaceVLA/libero`  
