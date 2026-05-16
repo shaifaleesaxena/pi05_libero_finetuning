@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Hugging Face / LeRobot caches
+hf_cache/
+.cache/
+huggingface/
+lerobot_cache/
+
+# Large model/data/checkpoint files
+models/
+outputs/
+checkpoints/
+data/
+datasets/
+videos/
+
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.parquet
+*.mp4
+*.avi
+
+# Logs
+logs/
+*.log
+
+# Keep only curated small logs
+!logs_small/
+!logs_small/*.log
+
+# Windows / IDE
+Thumbs.db
+desktop.ini
+.vscode/
