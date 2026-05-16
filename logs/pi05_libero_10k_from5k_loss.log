@@ -1,0 +1,100 @@
+Training:   1%|1         | 50/5000 [00:55<50:52,  1.62step/s]INFO 2026-04-26 11:28:49 ot_train.py:451 step:50 smpl:50 ep:0 epch:0.00 loss:1.872 grdn:9.566 lr:4.0e-06 updt_s:0.557 data_s:0.551
+Training:   2%|2         | 100/5000 [01:27<56:45,  1.44step/s]INFO 2026-04-26 11:29:21 ot_train.py:451 step:100 smpl:100 ep:1 epch:0.00 loss:1.783 grdn:8.986 lr:1.1e-05 updt_s:0.637 data_s:0.006
+Training:   3%|3         | 150/5000 [01:59<47:27,  1.70step/s]INFO 2026-04-26 11:29:52 ot_train.py:451 step:150 smpl:150 ep:1 epch:0.00 loss:1.553 grdn:8.021 lr:1.9e-05 updt_s:0.626 data_s:0.006
+Training:   4%|4         | 200/5000 [02:31<52:13,  1.53step/s]INFO 2026-04-26 11:30:24 ot_train.py:451 step:200 smpl:200 ep:1 epch:0.00 loss:1.248 grdn:7.349 lr:2.5e-05 updt_s:0.631 data_s:0.006
+Training:   5%|5         | 250/5000 [03:03<50:47,  1.56step/s]INFO 2026-04-26 11:30:57 ot_train.py:451 step:250 smpl:250 ep:2 epch:0.00 loss:1.112 grdn:8.309 lr:2.5e-05 updt_s:0.635 data_s:0.006
+Training:   6%|6         | 300/5000 [03:33<49:04,  1.60step/s]INFO 2026-04-26 11:31:26 ot_train.py:451 step:300 smpl:300 ep:2 epch:0.00 loss:0.881 grdn:7.159 lr:2.5e-05 updt_s:0.589 data_s:0.005
+Training:   7%|7         | 350/5000 [04:04<46:47,  1.66step/s]INFO 2026-04-26 11:31:58 ot_train.py:451 step:350 smpl:350 ep:2 epch:0.00 loss:0.985 grdn:7.517 lr:2.5e-05 updt_s:0.629 data_s:0.006
+Training:   8%|8         | 400/5000 [04:36<48:05,  1.59step/s]INFO 2026-04-26 11:32:30 ot_train.py:451 step:400 smpl:400 ep:2 epch:0.00 loss:0.978 grdn:7.441 lr:2.5e-05 updt_s:0.626 data_s:0.006
+Training:   9%|9         | 450/5000 [05:08<48:00,  1.58step/s]INFO 2026-04-26 11:33:02 ot_train.py:451 step:450 smpl:450 ep:3 epch:0.00 loss:1.059 grdn:8.216 lr:2.5e-05 updt_s:0.635 data_s:0.006
+Training:  10%|#         | 500/5000 [05:40<46:24,  1.62step/s]INFO 2026-04-26 11:33:33 ot_train.py:451 step:500 smpl:500 ep:3 epch:0.00 loss:1.000 grdn:7.889 lr:2.5e-05 updt_s:0.624 data_s:0.006
+Training:  11%|#1        | 550/5000 [06:12<44:25,  1.67step/s]INFO 2026-04-26 11:34:05 ot_train.py:451 step:550 smpl:550 ep:3 epch:0.00 loss:0.985 grdn:7.307 lr:2.4e-05 updt_s:0.628 data_s:0.006
+Training:  12%|#2        | 600/5000 [06:38<35:43,  2.05step/s]INFO 2026-04-26 11:34:32 ot_train.py:451 step:600 smpl:600 ep:4 epch:0.00 loss:0.904 grdn:6.638 lr:2.4e-05 updt_s:0.526 data_s:0.005
+Training:  13%|#3        | 650/5000 [07:10<45:40,  1.59step/s]INFO 2026-04-26 11:35:03 ot_train.py:451 step:650 smpl:650 ep:4 epch:0.00 loss:0.855 grdn:6.782 lr:2.4e-05 updt_s:0.621 data_s:0.006
+Training:  14%|#4        | 700/5000 [07:36<33:07,  2.16step/s]INFO 2026-04-26 11:35:30 ot_train.py:451 step:700 smpl:700 ep:4 epch:0.00 loss:0.883 grdn:7.046 lr:2.4e-05 updt_s:0.522 data_s:0.005
+Training:  15%|#5        | 750/5000 [08:05<36:22,  1.95step/s]INFO 2026-04-26 11:35:59 ot_train.py:451 step:750 smpl:750 ep:5 epch:0.00 loss:0.956 grdn:7.384 lr:2.4e-05 updt_s:0.574 data_s:0.005
+Training:  16%|#6        | 800/5000 [08:36<42:49,  1.63step/s]INFO 2026-04-26 11:36:29 ot_train.py:451 step:800 smpl:800 ep:5 epch:0.00 loss:0.810 grdn:5.866 lr:2.4e-05 updt_s:0.609 data_s:0.006
+Training:  17%|#7        | 850/5000 [09:08<46:47,  1.48step/s]INFO 2026-04-26 11:37:01 ot_train.py:451 step:850 smpl:850 ep:5 epch:0.00 loss:0.991 grdn:7.295 lr:2.4e-05 updt_s:0.633 data_s:0.006
+Training:  18%|#8        | 900/5000 [09:35<32:12,  2.12step/s]INFO 2026-04-26 11:37:29 ot_train.py:451 step:900 smpl:900 ep:6 epch:0.00 loss:0.785 grdn:6.047 lr:2.3e-05 updt_s:0.536 data_s:0.005
+Training:  19%|#9        | 950/5000 [10:06<46:31,  1.45step/s]INFO 2026-04-26 11:37:59 ot_train.py:451 step:950 smpl:950 ep:6 epch:0.00 loss:0.840 grdn:6.277 lr:2.3e-05 updt_s:0.606 data_s:0.006
+Training:  20%|##        | 1000/5000 [10:33<34:56,  1.91step/s]INFO 2026-04-26 11:38:27 ot_train.py:451 step:1K smpl:1K ep:6 epch:0.00 loss:0.933 grdn:7.020 lr:2.3e-05 updt_s:0.548 data_s:0.006
+Training:  21%|##1       | 1050/5000 [11:31<42:00,  1.57step/s]INFO 2026-04-26 11:39:25 ot_train.py:451 step:1K smpl:1K ep:7 epch:0.00 loss:0.939 grdn:7.302 lr:2.3e-05 updt_s:0.724 data_s:0.006
+Training:  22%|##2       | 1100/5000 [12:03<32:15,  2.02step/s]INFO 2026-04-26 11:39:56 ot_train.py:451 step:1K smpl:1K ep:7 epch:0.00 loss:0.866 grdn:6.431 lr:2.3e-05 updt_s:0.619 data_s:0.006
+Training:  23%|##3       | 1150/5000 [12:30<36:12,  1.77step/s]INFO 2026-04-26 11:40:24 ot_train.py:451 step:1K smpl:1K ep:7 epch:0.00 loss:0.968 grdn:6.980 lr:2.2e-05 updt_s:0.550 data_s:0.005
+Training:  24%|##4       | 1200/5000 [12:59<38:31,  1.64step/s]INFO 2026-04-26 11:40:52 ot_train.py:451 step:1K smpl:1K ep:7 epch:0.00 loss:0.779 grdn:5.725 lr:2.2e-05 updt_s:0.563 data_s:0.006
+Training:  25%|##5       | 1250/5000 [13:30<37:50,  1.65step/s]INFO 2026-04-26 11:41:24 ot_train.py:451 step:1K smpl:1K ep:8 epch:0.00 loss:0.867 grdn:6.709 lr:2.2e-05 updt_s:0.624 data_s:0.006
+Training:  26%|##6       | 1300/5000 [14:00<39:56,  1.54step/s]INFO 2026-04-26 11:41:53 ot_train.py:451 step:1K smpl:1K ep:8 epch:0.00 loss:0.828 grdn:6.119 lr:2.2e-05 updt_s:0.582 data_s:0.006
+Training:  27%|##7       | 1350/5000 [14:30<32:39,  1.86step/s]INFO 2026-04-26 11:42:23 ot_train.py:451 step:1K smpl:1K ep:8 epch:0.00 loss:0.791 grdn:6.054 lr:2.1e-05 updt_s:0.589 data_s:0.005
+Training:  28%|##8       | 1400/5000 [14:57<33:07,  1.81step/s]INFO 2026-04-26 11:42:51 ot_train.py:451 step:1K smpl:1K ep:9 epch:0.01 loss:0.942 grdn:6.806 lr:2.1e-05 updt_s:0.540 data_s:0.005
+Training:  29%|##9       | 1450/5000 [15:24<28:25,  2.08step/s]INFO 2026-04-26 11:43:18 ot_train.py:451 step:1K smpl:1K ep:9 epch:0.01 loss:0.872 grdn:6.104 lr:2.1e-05 updt_s:0.542 data_s:0.005
+Training:  30%|###       | 1500/5000 [15:52<33:26,  1.74step/s]INFO 2026-04-26 11:43:46 ot_train.py:451 step:2K smpl:2K ep:9 epch:0.01 loss:0.854 grdn:6.537 lr:2.1e-05 updt_s:0.551 data_s:0.006
+Training:  31%|###1      | 1550/5000 [16:21<37:34,  1.53step/s]INFO 2026-04-26 11:44:15 ot_train.py:451 step:2K smpl:2K ep:10 epch:0.01 loss:0.781 grdn:5.814 lr:2.0e-05 updt_s:0.577 data_s:0.006
+Training:  32%|###2      | 1600/5000 [16:53<36:25,  1.56step/s]INFO 2026-04-26 11:44:47 ot_train.py:451 step:2K smpl:2K ep:10 epch:0.01 loss:0.852 grdn:7.020 lr:2.0e-05 updt_s:0.632 data_s:0.006
+Training:  33%|###3      | 1650/5000 [17:22<33:59,  1.64step/s]INFO 2026-04-26 11:45:16 ot_train.py:451 step:2K smpl:2K ep:10 epch:0.01 loss:0.777 grdn:6.383 lr:2.0e-05 updt_s:0.571 data_s:0.005
+Training:  34%|###4      | 1700/5000 [17:52<31:00,  1.77step/s]INFO 2026-04-26 11:45:46 ot_train.py:451 step:2K smpl:2K ep:11 epch:0.01 loss:0.790 grdn:6.244 lr:1.9e-05 updt_s:0.589 data_s:0.006
+Training:  35%|###5      | 1750/5000 [18:23<34:27,  1.57step/s]INFO 2026-04-26 11:46:16 ot_train.py:451 step:2K smpl:2K ep:11 epch:0.01 loss:0.680 grdn:5.419 lr:1.9e-05 updt_s:0.605 data_s:0.005
+Training:  36%|###6      | 1800/5000 [18:50<28:02,  1.90step/s]INFO 2026-04-26 11:46:44 ot_train.py:451 step:2K smpl:2K ep:11 epch:0.01 loss:0.803 grdn:6.352 lr:1.9e-05 updt_s:0.543 data_s:0.005
+Training:  37%|###7      | 1850/5000 [19:20<34:43,  1.51step/s]INFO 2026-04-26 11:47:13 ot_train.py:451 step:2K smpl:2K ep:11 epch:0.01 loss:0.665 grdn:6.017 lr:1.8e-05 updt_s:0.580 data_s:0.006
+Training:  38%|###8      | 1900/5000 [19:51<32:30,  1.59step/s]INFO 2026-04-26 11:47:45 ot_train.py:451 step:2K smpl:2K ep:12 epch:0.01 loss:0.729 grdn:6.697 lr:1.8e-05 updt_s:0.628 data_s:0.006
+Training:  39%|###9      | 1950/5000 [20:23<33:51,  1.50step/s]INFO 2026-04-26 11:48:17 ot_train.py:451 step:2K smpl:2K ep:12 epch:0.01 loss:0.638 grdn:6.507 lr:1.8e-05 updt_s:0.626 data_s:0.005
+Training:  40%|####      | 2000/5000 [20:55<30:42,  1.63step/s]INFO 2026-04-26 11:48:49 ot_train.py:451 step:2K smpl:2K ep:12 epch:0.01 loss:0.618 grdn:6.243 lr:1.7e-05 updt_s:0.636 data_s:0.007
+Training:  41%|####1     | 2050/5000 [21:47<28:40,  1.71step/s]INFO 2026-04-26 11:49:41 ot_train.py:451 step:2K smpl:2K ep:13 epch:0.01 loss:0.644 grdn:7.129 lr:1.7e-05 updt_s:0.667 data_s:0.006
+Training:  42%|####2     | 2100/5000 [22:17<27:47,  1.74step/s]INFO 2026-04-26 11:50:11 ot_train.py:451 step:2K smpl:2K ep:13 epch:0.01 loss:0.595 grdn:7.324 lr:1.7e-05 updt_s:0.596 data_s:0.006
+Training:  43%|####3     | 2150/5000 [22:45<25:02,  1.90step/s]INFO 2026-04-26 11:50:38 ot_train.py:451 step:2K smpl:2K ep:13 epch:0.01 loss:0.593 grdn:7.174 lr:1.6e-05 updt_s:0.542 data_s:0.006
+Training:  44%|####4     | 2200/5000 [23:14<27:15,  1.71step/s]INFO 2026-04-26 11:51:08 ot_train.py:451 step:2K smpl:2K ep:14 epch:0.01 loss:0.546 grdn:7.158 lr:1.6e-05 updt_s:0.588 data_s:0.006
+Training:  45%|####5     | 2250/5000 [23:46<27:35,  1.66step/s]INFO 2026-04-26 11:51:40 ot_train.py:451 step:2K smpl:2K ep:14 epch:0.01 loss:0.534 grdn:6.874 lr:1.6e-05 updt_s:0.625 data_s:0.006
+Training:  46%|####6     | 2300/5000 [24:15<24:15,  1.85step/s]INFO 2026-04-26 11:52:08 ot_train.py:451 step:2K smpl:2K ep:14 epch:0.01 loss:0.514 grdn:6.874 lr:1.5e-05 updt_s:0.563 data_s:0.005
+Training:  47%|####6     | 2350/5000 [24:41<20:29,  2.16step/s]INFO 2026-04-26 11:52:35 ot_train.py:451 step:2K smpl:2K ep:15 epch:0.01 loss:0.548 grdn:6.890 lr:1.5e-05 updt_s:0.522 data_s:0.005
+Training:  48%|####8     | 2400/5000 [25:12<30:13,  1.43step/s]INFO 2026-04-26 11:53:05 ot_train.py:451 step:2K smpl:2K ep:15 epch:0.01 loss:0.525 grdn:7.490 lr:1.5e-05 updt_s:0.607 data_s:0.006
+Training:  49%|####9     | 2450/5000 [25:40<22:25,  1.90step/s]INFO 2026-04-26 11:53:34 ot_train.py:451 step:2K smpl:2K ep:15 epch:0.01 loss:0.526 grdn:7.513 lr:1.4e-05 updt_s:0.562 data_s:0.006
+Training:  50%|#####     | 2500/5000 [26:10<25:37,  1.63step/s]INFO 2026-04-26 11:54:04 ot_train.py:451 step:2K smpl:2K ep:15 epch:0.01 loss:0.519 grdn:7.582 lr:1.4e-05 updt_s:0.597 data_s:0.006
+Training:  51%|#####1    | 2550/5000 [26:42<24:51,  1.64step/s]INFO 2026-04-26 11:54:35 ot_train.py:451 step:3K smpl:3K ep:16 epch:0.01 loss:0.550 grdn:6.871 lr:1.4e-05 updt_s:0.622 data_s:0.006
+Training:  52%|#####2    | 2600/5000 [27:14<25:35,  1.56step/s]INFO 2026-04-26 11:55:07 ot_train.py:451 step:3K smpl:3K ep:16 epch:0.01 loss:0.531 grdn:7.767 lr:1.3e-05 updt_s:0.629 data_s:0.006
+Training:  53%|#####3    | 2650/5000 [27:45<21:51,  1.79step/s]INFO 2026-04-26 11:55:38 ot_train.py:451 step:3K smpl:3K ep:16 epch:0.01 loss:0.534 grdn:7.347 lr:1.3e-05 updt_s:0.616 data_s:0.006
+Training:  54%|#####4    | 2700/5000 [28:13<22:28,  1.71step/s]INFO 2026-04-26 11:56:06 ot_train.py:451 step:3K smpl:3K ep:17 epch:0.01 loss:0.510 grdn:6.967 lr:1.3e-05 updt_s:0.550 data_s:0.005
+Training:  55%|#####5    | 2750/5000 [28:41<23:23,  1.60step/s]INFO 2026-04-26 11:56:35 ot_train.py:451 step:3K smpl:3K ep:17 epch:0.01 loss:0.506 grdn:6.772 lr:1.2e-05 updt_s:0.563 data_s:0.006
+Training:  56%|#####6    | 2800/5000 [29:13<23:35,  1.55step/s]INFO 2026-04-26 11:57:07 ot_train.py:451 step:3K smpl:3K ep:17 epch:0.01 loss:0.461 grdn:7.615 lr:1.2e-05 updt_s:0.639 data_s:0.006
+Training:  57%|#####6    | 2850/5000 [29:44<20:49,  1.72step/s]INFO 2026-04-26 11:57:37 ot_train.py:451 step:3K smpl:3K ep:18 epch:0.01 loss:0.510 grdn:7.442 lr:1.1e-05 updt_s:0.600 data_s:0.006
+Training:  58%|#####8    | 2900/5000 [30:11<20:03,  1.74step/s]INFO 2026-04-26 11:58:05 ot_train.py:451 step:3K smpl:3K ep:18 epch:0.01 loss:0.483 grdn:7.337 lr:1.1e-05 updt_s:0.545 data_s:0.006
+Training:  59%|#####8    | 2950/5000 [30:41<21:52,  1.56step/s]INFO 2026-04-26 11:58:34 ot_train.py:451 step:3K smpl:3K ep:18 epch:0.01 loss:0.472 grdn:7.388 lr:1.1e-05 updt_s:0.581 data_s:0.006
+Training:  60%|######    | 3000/5000 [31:13<20:40,  1.61step/s]INFO 2026-04-26 11:59:07 ot_train.py:451 step:3K smpl:3K ep:19 epch:0.01 loss:0.486 grdn:7.296 lr:1.0e-05 updt_s:0.639 data_s:0.006
+Training:  61%|######1   | 3050/5000 [32:09<18:57,  1.71step/s]INFO 2026-04-26 12:00:03 ot_train.py:451 step:3K smpl:3K ep:19 epch:0.01 loss:0.431 grdn:6.235 lr:1.0e-05 updt_s:0.683 data_s:0.006
+Training:  62%|######2   | 3100/5000 [32:38<19:38,  1.61step/s]INFO 2026-04-26 12:00:32 ot_train.py:451 step:3K smpl:3K ep:19 epch:0.01 loss:0.490 grdn:7.062 lr:9.8e-06 updt_s:0.576 data_s:0.005
+Training:  63%|######3   | 3150/5000 [33:08<15:56,  1.93step/s]INFO 2026-04-26 12:01:02 ot_train.py:451 step:3K smpl:3K ep:20 epch:0.01 loss:0.481 grdn:8.102 lr:9.4e-06 updt_s:0.595 data_s:0.006
+Training:  64%|######4   | 3200/5000 [33:36<18:16,  1.64step/s]INFO 2026-04-26 12:01:30 ot_train.py:451 step:3K smpl:3K ep:20 epch:0.01 loss:0.437 grdn:6.542 lr:9.1e-06 updt_s:0.559 data_s:0.005
+Training:  65%|######5   | 3250/5000 [34:08<17:31,  1.66step/s]INFO 2026-04-26 12:02:01 ot_train.py:451 step:3K smpl:3K ep:20 epch:0.01 loss:0.464 grdn:7.018 lr:8.8e-06 updt_s:0.620 data_s:0.006
+Training:  66%|######6   | 3300/5000 [34:40<18:01,  1.57step/s]INFO 2026-04-26 12:02:33 ot_train.py:451 step:3K smpl:3K ep:20 epch:0.01 loss:0.468 grdn:6.598 lr:8.5e-06 updt_s:0.633 data_s:0.007
+Training:  67%|######7   | 3350/5000 [35:10<12:35,  2.18step/s]INFO 2026-04-26 12:03:04 ot_train.py:451 step:3K smpl:3K ep:21 epch:0.01 loss:0.481 grdn:7.230 lr:8.2e-06 updt_s:0.599 data_s:0.005
+Training:  68%|######8   | 3400/5000 [35:41<16:47,  1.59step/s]INFO 2026-04-26 12:03:35 ot_train.py:451 step:3K smpl:3K ep:21 epch:0.01 loss:0.490 grdn:7.756 lr:7.9e-06 updt_s:0.620 data_s:0.006
+Training:  69%|######9   | 3450/5000 [36:14<17:08,  1.51step/s]INFO 2026-04-26 12:04:07 ot_train.py:451 step:3K smpl:3K ep:21 epch:0.01 loss:0.495 grdn:6.726 lr:7.6e-06 updt_s:0.637 data_s:0.006
+Training:  70%|#######   | 3500/5000 [36:45<15:54,  1.57step/s]INFO 2026-04-26 12:04:39 ot_train.py:451 step:4K smpl:4K ep:22 epch:0.01 loss:0.423 grdn:7.544 lr:7.3e-06 updt_s:0.629 data_s:0.006
+Training:  71%|#######1  | 3550/5000 [37:15<15:11,  1.59step/s]INFO 2026-04-26 12:05:09 ot_train.py:451 step:4K smpl:4K ep:22 epch:0.01 loss:0.471 grdn:7.388 lr:7.0e-06 updt_s:0.588 data_s:0.006
+Training:  72%|#######2  | 3600/5000 [37:43<14:09,  1.65step/s]INFO 2026-04-26 12:05:36 ot_train.py:451 step:4K smpl:4K ep:22 epch:0.01 loss:0.406 grdn:7.485 lr:6.7e-06 updt_s:0.544 data_s:0.006
+Training:  73%|#######3  | 3650/5000 [38:14<14:47,  1.52step/s]INFO 2026-04-26 12:06:08 ot_train.py:451 step:4K smpl:4K ep:23 epch:0.01 loss:0.457 grdn:6.825 lr:6.4e-06 updt_s:0.626 data_s:0.006
+Training:  74%|#######4  | 3700/5000 [38:47<15:15,  1.42step/s]INFO 2026-04-26 12:06:40 ot_train.py:451 step:4K smpl:4K ep:23 epch:0.01 loss:0.442 grdn:6.783 lr:6.2e-06 updt_s:0.639 data_s:0.006
+Training:  75%|#######5  | 3750/5000 [39:19<13:06,  1.59step/s]INFO 2026-04-26 12:07:12 ot_train.py:451 step:4K smpl:4K ep:23 epch:0.01 loss:0.447 grdn:7.280 lr:5.9e-06 updt_s:0.632 data_s:0.006
+Training:  76%|#######6  | 3800/5000 [39:48<11:27,  1.74step/s]INFO 2026-04-26 12:07:42 ot_train.py:451 step:4K smpl:4K ep:24 epch:0.01 loss:0.429 grdn:6.390 lr:5.7e-06 updt_s:0.587 data_s:0.005
+Training:  77%|#######7  | 3850/5000 [40:16<11:28,  1.67step/s]INFO 2026-04-26 12:08:10 ot_train.py:451 step:4K smpl:4K ep:24 epch:0.01 loss:0.439 grdn:7.432 lr:5.4e-06 updt_s:0.549 data_s:0.005
+Training:  78%|#######8  | 3900/5000 [40:48<11:23,  1.61step/s]INFO 2026-04-26 12:08:42 ot_train.py:451 step:4K smpl:4K ep:24 epch:0.01 loss:0.506 grdn:7.226 lr:5.2e-06 updt_s:0.629 data_s:0.007
+Training:  79%|#######9  | 3950/5000 [41:20<12:17,  1.42step/s]INFO 2026-04-26 12:09:14 ot_train.py:451 step:4K smpl:4K ep:24 epch:0.01 loss:0.416 grdn:6.973 lr:5.0e-06 updt_s:0.633 data_s:0.005
+Training:  80%|########  | 4000/5000 [41:50<11:11,  1.49step/s]INFO 2026-04-26 12:09:44 ot_train.py:451 step:4K smpl:4K ep:25 epch:0.01 loss:0.399 grdn:6.399 lr:4.8e-06 updt_s:0.601 data_s:0.006
+Training:  81%|########1 | 4050/5000 [42:46<10:17,  1.54step/s]INFO 2026-04-26 12:10:39 ot_train.py:451 step:4K smpl:4K ep:25 epch:0.01 loss:0.413 grdn:6.204 lr:4.5e-06 updt_s:0.672 data_s:0.006
+Training:  82%|########2 | 4100/5000 [43:18<09:05,  1.65step/s]INFO 2026-04-26 12:11:11 ot_train.py:451 step:4K smpl:4K ep:25 epch:0.01 loss:0.478 grdn:7.011 lr:4.3e-06 updt_s:0.627 data_s:0.006
+Training:  83%|########2 | 4150/5000 [43:49<08:01,  1.77step/s]INFO 2026-04-26 12:11:43 ot_train.py:451 step:4K smpl:4K ep:26 epch:0.02 loss:0.467 grdn:6.472 lr:4.2e-06 updt_s:0.625 data_s:0.005
+Training:  84%|########4 | 4200/5000 [44:18<06:31,  2.04step/s]INFO 2026-04-26 12:12:12 ot_train.py:451 step:4K smpl:4K ep:26 epch:0.02 loss:0.411 grdn:6.854 lr:4.0e-06 updt_s:0.580 data_s:0.005
+Training:  85%|########5 | 4250/5000 [44:47<07:31,  1.66step/s]INFO 2026-04-26 12:12:40 ot_train.py:451 step:4K smpl:4K ep:26 epch:0.02 loss:0.414 grdn:6.977 lr:3.8e-06 updt_s:0.556 data_s:0.006
+Training:  86%|########6 | 4300/5000 [45:17<07:09,  1.63step/s]INFO 2026-04-26 12:13:11 ot_train.py:451 step:4K smpl:4K ep:27 epch:0.02 loss:0.427 grdn:6.228 lr:3.6e-06 updt_s:0.605 data_s:0.006
+Training:  87%|########7 | 4350/5000 [45:45<05:46,  1.88step/s]INFO 2026-04-26 12:13:39 ot_train.py:451 step:4K smpl:4K ep:27 epch:0.02 loss:0.427 grdn:6.832 lr:3.5e-06 updt_s:0.555 data_s:0.005
+Training:  88%|########8 | 4400/5000 [46:15<06:34,  1.52step/s]INFO 2026-04-26 12:14:09 ot_train.py:451 step:4K smpl:4K ep:27 epch:0.02 loss:0.454 grdn:6.622 lr:3.4e-06 updt_s:0.592 data_s:0.006
+Training:  89%|########9 | 4450/5000 [46:45<04:42,  1.95step/s]INFO 2026-04-26 12:14:38 ot_train.py:451 step:4K smpl:4K ep:28 epch:0.02 loss:0.437 grdn:6.871 lr:3.2e-06 updt_s:0.583 data_s:0.005
+Training:  90%|######### | 4500/5000 [47:12<04:46,  1.75step/s]INFO 2026-04-26 12:15:06 ot_train.py:451 step:4K smpl:4K ep:28 epch:0.02 loss:0.442 grdn:6.807 lr:3.1e-06 updt_s:0.549 data_s:0.005
+Training:  91%|#########1| 4550/5000 [47:41<04:06,  1.82step/s]INFO 2026-04-26 12:15:35 ot_train.py:451 step:5K smpl:5K ep:28 epch:0.02 loss:0.434 grdn:6.944 lr:3.0e-06 updt_s:0.564 data_s:0.006
+Training:  92%|#########2| 4600/5000 [48:10<04:27,  1.50step/s]INFO 2026-04-26 12:16:03 ot_train.py:451 step:5K smpl:5K ep:28 epch:0.02 loss:0.433 grdn:5.969 lr:2.9e-06 updt_s:0.566 data_s:0.005
+Training:  93%|#########3| 4650/5000 [48:39<03:06,  1.88step/s]INFO 2026-04-26 12:16:32 ot_train.py:451 step:5K smpl:5K ep:29 epch:0.02 loss:0.389 grdn:6.800 lr:2.8e-06 updt_s:0.572 data_s:0.005
+Training:  94%|#########3| 4700/5000 [49:04<02:51,  1.75step/s]INFO 2026-04-26 12:16:58 ot_train.py:451 step:5K smpl:5K ep:29 epch:0.02 loss:0.452 grdn:6.271 lr:2.7e-06 updt_s:0.509 data_s:0.006
+Training:  95%|#########5| 4750/5000 [49:34<02:12,  1.89step/s]INFO 2026-04-26 12:17:28 ot_train.py:451 step:5K smpl:5K ep:29 epch:0.02 loss:0.454 grdn:6.771 lr:2.7e-06 updt_s:0.596 data_s:0.006
+Training:  96%|#########6| 4800/5000 [50:02<01:43,  1.94step/s]INFO 2026-04-26 12:17:56 ot_train.py:451 step:5K smpl:5K ep:30 epch:0.02 loss:0.399 grdn:6.613 lr:2.6e-06 updt_s:0.549 data_s:0.005
+Training:  97%|#########7| 4850/5000 [50:30<01:24,  1.77step/s]INFO 2026-04-26 12:18:23 ot_train.py:451 step:5K smpl:5K ep:30 epch:0.02 loss:0.440 grdn:7.238 lr:2.6e-06 updt_s:0.543 data_s:0.005
+Training:  98%|#########8| 4900/5000 [50:57<00:56,  1.77step/s]INFO 2026-04-26 12:18:51 ot_train.py:451 step:5K smpl:5K ep:30 epch:0.02 loss:0.416 grdn:7.230 lr:2.5e-06 updt_s:0.548 data_s:0.005
+Training:  99%|#########9| 4950/5000 [51:25<00:28,  1.75step/s]INFO 2026-04-26 12:19:19 ot_train.py:451 step:5K smpl:5K ep:31 epch:0.02 loss:0.439 grdn:6.736 lr:2.5e-06 updt_s:0.554 data_s:0.005
+Training: 100%|##########| 5000/5000 [51:54<00:00,  1.74step/s]INFO 2026-04-26 12:19:48 ot_train.py:451 step:5K smpl:5K ep:31 epch:0.02 loss:0.392 grdn:6.659 lr:2.5e-06 updt_s:0.567 data_s:0.005
