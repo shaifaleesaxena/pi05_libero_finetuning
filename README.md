@@ -25,22 +25,13 @@ The current implementation focuses on building a reproducible fine-tuning pipeli
 
 ---
 
-## 2. What Kind of Fine-Tuning Is This?
-
-This project uses:
-
-> **Supervised offline imitation-learning fine-tuning**
-
-More specifically:
+## 2. Fine-Tuning?
 
 | Method | Used? | Explanation |
 |---|---:|---|
 | Supervised fine-tuning | Yes | The model learns from LIBERO demonstration trajectories |
 | Offline imitation learning | Yes | Training uses existing demonstrations, not live environment interaction |
 | Expert-only fine-tuning | Yes | Only the action expert / action-related components are trained |
-| Full fine-tuning | Not yet | Future comparison |
-| LoRA / QLoRA / PEFT | No | `use_peft=false` |
-| RL fine-tuning | No | No reward function or online rollout training is used |
 
 The key training flag is:
 
